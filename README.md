@@ -8,6 +8,7 @@ Soy Rain, un estudiante colombiano de ingenieria de software. Actualmente estoy 
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=249600415040012309)
 
+## Skills
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
