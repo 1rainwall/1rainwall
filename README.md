@@ -6,7 +6,9 @@ Soy Rain, un estudiante de ingenieria de software. Actualmente estoy trabajando 
 <br>
 
 > 21 años
+
 > ENG/ESP
+
 > Colombia
 
 ## Discord
