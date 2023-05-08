@@ -3,7 +3,8 @@
 </h1>
 <br>
 Soy Rain, un estudiante colombiano de ingenieria de software. Actualmente estoy trabajando como desarrollador Full-Stack.
-<br>
+
+## Discord
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=249600415040012309)
 
