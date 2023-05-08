@@ -3,11 +3,9 @@
 </h1>
 <br>
 Soy Rain, un estudiante de ingenieria de software. Actualmente estoy trabajando como desarrollador Back-end.
-
+<br>
 > 21 años
-
 > ENG/ESP
-
 > Colombia
 
 ## Discord
