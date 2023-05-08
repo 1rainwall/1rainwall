@@ -5,12 +5,14 @@
 Soy Rain, un estudiante de ingenieria de software. Actualmente estoy trabajando como desarrollador Back-end.
 
 <p>
+  
 > 21 años
 
 > ENG/ESP
 
 > Colombia
 </p>
+
 ## Discord
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=249600415040012309)
