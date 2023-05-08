@@ -2,7 +2,10 @@
   <b>Rain</b>
 </h1>
 <br>
-Soy Rain, un estudiante colombiano de ingenieria de software. Actualmente estoy trabajando como desarrollador Full-Stack.
+Soy Rain, un estudiante de ingenieria de software. Actualmente estoy trabajando como desarrollador Back-end.
+> 21 años
+> ENG/ESP
+> Colombia
 
 ## Discord
 
