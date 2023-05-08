@@ -33,6 +33,6 @@ Soy Rain, un estudiante de ingenieria de software. Actualmente estoy trabajando 
 
 Actualmente trabajando activamente en [Catto](https://github.com/CattoBot)
 
-## Mis estadísticas
+## Estadísticas
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1rainwall&show_icons=true&theme=tokyonight)
