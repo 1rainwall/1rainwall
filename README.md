@@ -6,7 +6,7 @@ Soy Rain, un estudiante de ingenieria de software. Actualmente estoy trabajando 
 
 <p>
   
-> 21 años
+> 21 Años
 
 > ENG/ESP
 
