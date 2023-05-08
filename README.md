@@ -2,7 +2,7 @@
 </h1>
 Soy Rain, un estudiante colombiano de ingenieria de software. Actualmente estoy trabajando como desarrollador Full-Stack.
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/249600415040012309)](https://discord.com/users/249600415040012309)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=249600415040012309)
 
 <p>
 <div align="center">
