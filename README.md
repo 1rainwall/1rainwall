@@ -35,10 +35,5 @@ Actualmente trabajando activamente en [Catto](https://github.com/CattoBot)
 
 ## Estadísticas
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1rainwall&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=1rainwall&repo=convoychat" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1rainwall&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
