@@ -1,10 +1,6 @@
 <h1 align="center">
   <b>Rain</b>
 </h1>
-<h1 align="center">
-  <b>Discord</b>
-  <b>![My Discord](https://discord-readme-badge.vercel.app/api?id=249600415040012309)</b>
-</h1>
 
 <h1 align="center">
   <b>Skills</b>
