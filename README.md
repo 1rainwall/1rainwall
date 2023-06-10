@@ -1,8 +1,4 @@
 <h1 align="center">
-  <b>Rain</b>
-</h1>
-
-<h1 align="center">
   <b>Skills</b>
 </h1>
 <p>
