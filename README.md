@@ -1,11 +1,15 @@
 <h1 align="center">
   <b>Rain</b>
 </h1>
-# Discord
+<h1 align="center">
+  <b>Discord</b>
+</h1>
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=249600415040012309)
 
-# Skills
+<h1 align="center">
+  <b>Skills</b>
+</h1>
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
@@ -15,6 +19,8 @@
 </div>
 </p>
 
-## Proyectos
+<h1 align="center">
+  <b>Projects</b>
+</h1>
 
 Actualmente trabajando activamente en [Catto](https://github.com/CattoBot)
