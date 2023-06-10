@@ -1,11 +1,11 @@
 <h1 align="center">
   <b>Rain</b>
 </h1>
-## Discord
+# Discord
 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=249600415040012309)
 
-## Skills
+# Skills
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
